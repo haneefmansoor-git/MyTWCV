@@ -1,5 +1,3 @@
-# MyTWCV
-Senior technical writer resume and repository
 # Haneef Mansoor Shaik
 **Senior Technical Writer**
 
